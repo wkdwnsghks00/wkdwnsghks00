@@ -15,8 +15,6 @@ Here are some of the tools and technologies I work with:
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/wkdwnsghks00/crawler)  
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
-[Project Name](https://github.com/wkdwnsghks00?tab=repositories)
-
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=wkdwnsghks00&show_icons=true&theme=dracula)
 
