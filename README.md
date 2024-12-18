@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a Computer Engineering student working on back
 ---
 
 ## 🚀 About Me
-- 🎓 **Major**: Computer Science  
+- 🎓 **Major**: Computer Engineering  
 - 💻 **Skills**: Java, Spring Boot, MySQL, Python  
-- 🌱 **Currently Learning**: Studying computer science, focusing on data structures and operating systems  
+- 🌱 **Currently Learning**: CS, focusing on data structures and operating systems  
 
 ## 🛠 Tech Stack
 Here are some of the tools and technologies I work with:  
