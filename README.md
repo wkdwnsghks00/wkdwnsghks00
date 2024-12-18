@@ -1,5 +1,5 @@
 # Hi there 👋  
-Welcome to my GitHub profile! I'm a Computer Science student passionate about web development and backend systems.
+Welcome to my GitHub profile! I'm a Computer Engineering student working on backend systems.
 
 ---
 
