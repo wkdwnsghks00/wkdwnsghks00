@@ -8,6 +8,14 @@ Welcome to my GitHub profile! I'm a Computer Engineering student working on back
 - 💻 **Skills**: Java, Spring Boot, MySQL, Python  
 - 🌱 **Currently Learning**: CS, focusing on data structures and operating systems  
 
+---
+
+## 📜 Certifications
+- **정보처리기사** (Engineer Information Processing)  
+- **SQLD** (SQL Developer)
+
+---
+
 ## 🛠 Tech Stack
 Here are some of the tools and technologies I work with:  
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://github.com/wkdwnsghks00/crawl_project)  
