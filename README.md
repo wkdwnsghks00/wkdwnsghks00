@@ -1,12 +1,12 @@
 # Hi there 👋  
-Welcome to my GitHub profile! I'm a Computer Engineering student working on web development and backend systems.
+Welcome to my GitHub profile! I'm a Computer Science student passionate about web development and backend systems.
 
 ---
 
 ## 🚀 About Me
-- 🎓 **Major**: Computer Engineering  
-- 💻 **Skills**: Python, Java, Spring Boot, React, MySQL  
-- 🌱 **Currently Learning**: Spring Boot & MyBatis  
+- 🎓 **Major**: Computer Science  
+- 💻 **Skills**: Java, Spring Boot, MySQL, Python  
+- 🌱 **Currently Learning**: Studying computer science, focusing on data structures and operating systems  
 
 ## 🛠 Tech Stack
 Here are some of the tools and technologies I work with:  
@@ -20,11 +20,4 @@ Here are some of the tools and technologies I work with:
 
 ---
 
-### 📫 Contact Me  
-- Email: [your-email@example.com](mailto:your-email@example.com)  
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/)
-
----
-
-⭐️ **Fun Fact**: "I'm passionate about building scalable backend systems and learning new technologies!"  
-
+⭐️ **Fun Fact**: "I'm passionate about exploring new technologies and improving my backend development skills!"  
